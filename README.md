@@ -1,2 +1,8 @@
 # A1
-该项目是做了一个模拟时钟的小程序，实现了时钟的功能
+This project is a clock simulating program。 Simulated the function of the clock.
+
+## Using
+Run it in Eclipse, or simply use `javac` to compile and `java` to run.
+
+## On the way
+Trying to make a GUI to make it easier to use and build with maven to make it easier to build.
